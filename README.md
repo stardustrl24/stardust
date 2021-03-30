@@ -1,2 +1,0 @@
-# stardust
-bacot stardust
